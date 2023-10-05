@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Nairobi, Kenya.</h3>
 
 
-- 💬 Ask me about **MERN, Java**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **stevencallistus19@gmail.com**
 
